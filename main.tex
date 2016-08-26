@@ -1,0 +1,72 @@
+%change font size, side, papersize
+\documentclass[12pt,twoside,letterpaper]{report}
+
+%package for font
+%\usepackage{arev}
+%\usepackage{comicsans} %example of comic sans
+
+%use geometry package to set margin
+\usepackage[letterpaper,%
+            left=1.1in,right=1.1in,top=1.1in,bottom=1.1in%
+            %,showframe, 
+            ]{geometry}
+
+%double spacing package
+%\usepackage{setspace}
+\usepackage[doublespacing]{setspace}
+%\singlespacing
+%\onehalfspacing
+%\doublespacing
+
+\usepackage[toc,page]{appendix}
+
+%additional math package
+\usepackage{amsmath, amssymb}
+
+%graphic package
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{color}
+\graphicspath{ {figures/} }
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{listings}
+%================================
+\input{declaration}
+\begin{document}
+\input{title.tex}
+\input{abstract.tex}
+\input{tableofc.tex}
+
+% CHAPTER 1
+\input{intro2.tex}
+
+% CHAPTER 2 Section X-Ray Diffraction
+\input{./TheoriticalFoundation/Angular_Correlation.tex}
+% CHAPTER 2 Section Spherical Harmonics
+\input{./TheoriticalFoundation/Property_of_Spherical_Harmonics.tex}
+% CHAPTER 2 Section Symmetry on Angular Correlation
+\input{./TheoriticalFoundation/Symmetry_on_Angular_Correlation.tex}
+
+%CHAPTER 3 Section Pattern on Symmetry
+\input{./Result/Observing_Symmetry.tex}
+%CHAPTER 3 Convergence Limit
+\input{./Result/Convergence_Limit.tex}
+
+% CHAPTER 4 Section 2D Case
+\input{./Result/Reconstruction/2D_Case.tex}
+% CHAPTER 4 Section Triple Correlation
+\input{./Result/Reconstruction/3DCase/Triple_Correlation.tex}
+% CHAPTER 4 Section Positivity Constraint
+\input{./Result/Reconstruction/3DCase/SVD_B.tex}
+
+%CONCLUSION
+\input{conclus.tex}
+
+%APPENDIX
+\input{Appendices.tex}
+
+%REFERENCE
+\input{refer.tex}
+\input{cvtex.tex}
+\end{document}

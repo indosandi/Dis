@@ -1,0 +1,44 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Abstract}{i}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Table of Contents}{ii}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of Figures}{ix}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of Tables}{x}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}XFEL}{1}
+\contentsline {chapter}{\numberline {2}Theoretical Foundation}{17}
+\contentsline {section}{\numberline {2.1}X-ray Diffraction}{17}
+\contentsline {section}{\numberline {2.2}Angular Correlation}{21}
+\contentsline {subsection}{\numberline {2.2.1}Independent Parameters}{31}
+\contentsline {section}{\numberline {2.3}Spherical Harmonics}{33}
+\contentsline {subsection}{\numberline {2.3.1}Property of Spherical Harmonics}{33}
+\contentsline {subsection}{\numberline {2.3.2}Effect of Azimuthal Symmetry on Spherical Harmonics Expansion}{36}
+\contentsline {subsection}{\numberline {2.3.3}Effect of 4-fold symmetry on Spherical Harmonics Expansion}{38}
+\contentsline {subsection}{\numberline {2.3.4}Effect of Icosahedral symmetry on Spherical Harmonics Expansion}{40}
+\contentsline {section}{\numberline {2.4}Symmetry on Angular Correlation}{43}
+\contentsline {subsection}{\numberline {2.4.1}Rotation of Data Points}{43}
+\contentsline {subsection}{\numberline {2.4.2}Principal Component Analysis }{45}
+\contentsline {subsection}{\numberline {2.4.3}Matrix Correlation}{48}
+\contentsline {chapter}{\numberline {3}Result}{51}
+\contentsline {section}{\numberline {3.1}Pattern on Symmetry}{51}
+\contentsline {subsection}{\numberline {3.1.1}Azimuthal Pattern}{51}
+\contentsline {subsection}{\numberline {3.1.2}4-fold Pattern}{53}
+\contentsline {subsection}{\numberline {3.1.3}Icosahedral Pattern}{54}
+\contentsline {subsection}{\numberline {3.1.4}Asymmetric Pattern}{55}
+\contentsline {subsection}{\numberline {3.1.5}Inversion Symmetry}{58}
+\contentsline {subsection}{\numberline {3.1.6}Experimental Data}{60}
+\contentsline {section}{\numberline {3.2}Convergence Limit}{69}
+\contentsline {chapter}{\numberline {4}Reconstruction}{74}
+\contentsline {section}{\numberline {4.1}2D Case}{74}
+\contentsline {subsection}{\numberline {4.1.1}Polar Fourier Transform}{74}
+\contentsline {subsection}{\numberline {4.1.2}Angular Correlation Constraint}{78}
+\contentsline {section}{\numberline {4.2}Triple Correlation}{80}
+\contentsline {section}{\numberline {4.3}Positivity Constraint}{87}
+\contentsline {subsection}{\numberline {4.3.1}Matrix Quantity}{87}
+\contentsline {subsection}{\numberline {4.3.2}Optimization}{91}
+\contentsline {chapter}{\numberline {5}Conclusion and Outlook}{96}
+\contentsline {chapter}{Appendices}{101}
+\contentsline {chapter}{\numberline {A}Procrustes Problem}{102}
+\contentsline {chapter}{\numberline {B}Active Set Run}{104}
+\contentsline {chapter}{\numberline {C}Protein Data Bank Format}{107}
+\contentsline {chapter}{\numberline {D}Cubic Spline}{109}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }References}{112}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Curriculum Vitae}{117}

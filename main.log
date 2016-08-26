@@ -1,0 +1,1011 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2013.5.30)  26 AUG 2016 11:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count91
+\c@@ppsavesec=\count92
+\c@@ppsaveapp=\count93
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks17
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count106
+\float@exts=\toks21
+\float@box=\box28
+\@float@everytoks=\toks22
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count107
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count108
+\c@subtable=\count109
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count110
+\lst@gtempboxa=\box30
+\lst@token=\toks23
+\lst@length=\count111
+\lst@currlwidth=\dimen129
+\lst@column=\count112
+\lst@pos=\count113
+\lst@lostspace=\dimen130
+\lst@width=\dimen131
+\lst@newlines=\count114
+\lst@lineno=\count115
+\lst@maxwidth=\dimen132
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count116
+\lst@skipnumbers=\count117
+\lst@framebox=\box31
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(./declaration.tex) (./main.aux
+
+LaTeX Warning: Label `eq:spline2d' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(79.49744pt, 455.30013pt, 79.49744pt)
+* v-part:(T,H,B)=(79.49744pt, 635.97511pt, 79.49744pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=455.30013pt
+* \textheight=635.97511pt
+* \oddsidemargin=7.22745pt
+* \evensidemargin=7.22745pt
+* \topmargin=-29.77255pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=95.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count118
+(./title.tex [1
+
+]) (./abstract.tex) (./tableofc.tex [1] [2] (./main.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+] [4])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+[5] (./main.lof
+Underfull \vbox (badness 4132) has occurred while \output is active []
+
+ [6
+
+]
+[7] [8])
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [9] (./main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+) (./intro2.tex [10
+
+]
+Chapter 1.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[1
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [2]
+File: figures/Don.eps Graphic file (type eps)
+ <figures/Don.eps>
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \vbox (badness 7168) has occurred while \output is active []
+
+ [6]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+[7]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+File: figures/kimplot.eps Graphic file (type eps)
+ <figures/kimplot.eps>
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ° in font cmr12!
+File: figures/dpkim.eps Graphic file (type eps)
+ <figures/dpkim.eps> [8]
+File: figures/kimvirus.eps Graphic file (type eps)
+ <figures/kimvirus.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+File: figures/kimvirus2.eps Graphic file (type eps)
+
+<figures/kimvirus2.eps> [11]
+File: figures/kimnano.eps Graphic file (type eps)
+ <figures/kimnano.eps>
+Underfull \vbox (badness 1533) has occurred while \output is active []
+
+ [12]
+[13]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+File: figures/kimBl.eps Graphic file (type eps)
+ <figures/kimBl.eps> [14]) (./TheoriticalFoundation/Angular_Correlation.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16]
+Chapter 2.
+File: figures/xraydiff.eps Graphic file (type eps)
+<figures/xraydiff.eps> [17
+
+] [18]
+File: figures/atomicff.eps Graphic file (type eps)
+ <figures/atomicff.eps> [19]
+File: figures/pdbshot.eps Graphic file (type eps)
+
+<figures/pdbshot.eps> [20]
+File: figures/schemadifdes2.eps Graphic file (type eps)
+ <figures/schemadifdes2.eps>
+Overfull \hbox (15.60341pt too wide) in paragraph at lines 83--84
+\OT1/cmr/m/n/12 A sin-gle par-ti-cle diffrac-tion ex-per-i-ment is an ex-per-i-
+ment that diffracts in-di-vid-ual biomolecules
+ []
+
+[21]
+File: figures/colldp.eps Graphic file (type eps)
+ <figures/colldp.eps>
+File: figures/ewsphe.eps Graphic file (type eps)
+ <figures/ewsphe.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 4726) has occurred while \output is active []
+
+ [23]
+File: figures/polarcor.eps Graphic file (type eps)
+
+<figures/polarcor.eps> [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Overfull \hbox (24.3099pt too wide) in paragraph at lines 304--304
+[] 
+ []
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32])
+(./TheoriticalFoundation/Property_of_Spherical_Harmonics.tex
+File: figures/sphexample.eps Graphic file (type eps)
+
+<figures/sphexample.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+File: figures/azimathrot.eps Graphic file (type eps)
+
+<figures/azimathrot.eps>
+File: figures/azimuth.eps Graphic file (type eps)
+ <figures/azimuth.eps> [36]
+File: figures/sphazm.eps Graphic file (type eps)
+ <figures/sphazm.eps>
+[37]
+File: figures/4fold2.eps Graphic file (type eps)
+ <figures/4fold2.eps> [38]
+File: figures/sph4fold.eps Graphic file (type eps)
+ <figures/sph4fold.eps>
+Underfull \vbox (badness 4120) has occurred while \output is active []
+
+ [39]
+[40]
+File: figures/spico.eps Graphic file (type eps)
+ <figures/spico.eps> [41]
+Overfull \hbox (31.08717pt too wide) in paragraph at lines 172--191
+[]\OT1/cmr/m/n/12 Factor $\OML/cmm/m/it/12 a[]$ \OT1/cmr/m/n/12 can-not be ar-b
+i-trary be-cause equa-tion 2.48[] must sat-isfy icosa-haderal symmetry[[]].
+ []
+
+) (./TheoriticalFoundation/Symmetry_on_Angular_Correlation.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+File: figures/pointfree.eps Graphic file (type eps)
+
+<figures/pointfree.eps>
+File: figures/rotatedpoint.eps Graphic file (type eps)
+ <figures/rotatedpoint.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 8--18
+[]$[]$ $[]$ 
+ []
+
+[43]
+File: figures/rotatedpointsmaller.eps Graphic file (type eps)
+ <figures/rotatedpointsmaller.eps>
+File: figures/rotatedpointzero.eps Graphic file (type eps)
+ <figures/rotatedpointzero.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44] [45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49])
+(./Result/Observing_Symmetry.tex [50]
+Chapter 3.
+File: figures/ellipsoid.eps Graphic file (type eps)
+<figures/ellipsoid.eps>
+File: figures/azimsvd.eps Graphic file (type eps)
+ <figures/azimsvd.eps>
+File: figures/tableIlmazim.eps Graphic file (type eps)
+ <figures/tableIlmazim.eps>
+[51
+
+] [52]
+File: figures/KC4fold.eps Graphic file (type eps)
+ <figures/KC4fold.eps>
+File: figures/svdKC.eps Graphic file (type eps)
+ <figures/svdKC.eps>
+File: figures/tableIlm4fold.eps Graphic file (type eps)
+
+<figures/tableIlm4fold.eps> [53]
+File: figures/cor.eps Graphic file (type eps)
+ <figures/cor.eps> [54]
+File: figures/svdBcor.eps Graphic file (type eps)
+ <figures/svdBcor.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/pyp.eps Graphic file (type eps)
+<figures/pyp.eps> [55]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/svdBaPYP.eps Graphic file (type eps)
+<figures/svdBaPYP.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+
+LaTeX Warning: Text page 57 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [58]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+File: figures/good1.eps Graphic file (type eps)
+
+<figures/good1.eps>
+File: figures/good2.eps Graphic file (type eps)
+ <figures/good2.eps>
+File: figures/good3.eps Graphic file (type eps)
+ <figures/good3.eps>
+File: figures/good4.eps Graphic file (type eps)
+
+<figures/good4.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 134--150
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 134--150
+[]$ $[]$ 
+ []
+
+File: figures/bad1.eps Graphic file (type eps)
+<figures/bad1.eps>
+File: figures/bad2.eps Graphic file (type eps)
+ <figures/bad2.eps>
+File: figures/bad3.eps Graphic file (type eps)
+ <figures/bad3.eps>
+File: figures/bad4.eps Graphic file (type eps)
+ <figures/bad4.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 157--173
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 157--173
+[]$ $[]$ 
+ []
+
+File: figures/bad5.eps Graphic file (type eps)
+<figures/bad5.eps>
+File: figures/bad6.eps Graphic file (type eps)
+ <figures/bad6.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 179--187
+[]$[]$ $[]$ 
+ []
+
+[60]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61]
+File: figures/polargrid.eps Graphic file (type eps)
+ <figures/polargrid.eps>
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+) [62]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 214.
+
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 214.
+ [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [65]
+[66]
+File: figures/svdBnanoexp.eps Graphic file (type eps)
+ <figures/svdBnanoexp.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Result/Convergence_Limit.tex [67] [68]
+File: figures/dppbcv.eps Graphic file (type eps)
+ <figures/dppbcv.eps>
+File: figures/dppyp.eps Graphic file (type eps)
+
+<figures/dppyp.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 18--28
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 2735) has occurred while \output is active []
+
+ [69
+
+]
+File: figures/convpypl6.ps Graphic file (type eps)
+
+<figures/convpypl6.ps>
+File: figures/convpypl12.eps Graphic file (type eps)
+ <figures/convpypl12.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 34--45
+[]$[]$ $[]$ 
+ []
+
+[70]
+File: figures/convpbcv6.eps Graphic file (type eps)
+ <figures/convpbcv6.eps>
+File: figures/convpbcvl12.eps Graphic file (type eps)
+ <figures/convpbcvl12.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 55--67
+[]$[]$ $[]$ 
+ []
+
+[71] [72]) (./Result/Reconstruction/2D_Case.tex [73]
+Chapter 4.
+[74
+
+
+]
+Underfull \vbox (badness 7116) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [76]
+Overfull \hbox (15.67415pt too wide) in alignment at lines 70--77
+ [][][] []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+File: figures/Bconstraint.eps Graphic file (type eps)
+
+<figures/Bconstraint.eps> [78]
+File: figures/kc2dmodel.eps Graphic file (type eps)
+ <figures/kc2dmodel.eps>
+File: figures/kc2drec.eps Graphic file (type eps)
+ <figures/kc2drec.eps>
+Overfull \hbox (2.24365pt too wide) in paragraph at lines 126--128
+\OML/cmm/m/it/12 B[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 q; q\OT1/cmr/m/n/12 )$ is
+ used. An-other im-por-tant quan-tity is R-factor, R-factor be-tween $\OML/cmm/
+m/it/12 B[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 q; q[]\OT1/cmr/m/n/12 )$model
+ []
+
+[79]) (./Result/Reconstruction/3DCase/Triple_Correlation.tex
+File: figures/ellipsdot.eps Graphic file (type eps)
+
+<figures/ellipsdot.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+File: figures/dpnano1.eps Graphic file (type eps)
+
+<figures/dpnano1.eps>
+File: figures/dpnano2.eps Graphic file (type eps)
+ <figures/dpnano2.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 37--45
+[]$[]$ $[]$ 
+ []
+
+[82]
+File: figures/axisno.eps Graphic file (type eps)
+ <figures/axisno.eps>
+File: figures/axisz.eps Graphic file (type eps)
+ <figures/axisz.eps> [83]
+File: figures/rhoflat.eps Graphic file (type eps)
+ <figures/rhoflat.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+File: figures/Rsplit.eps Graphic file (type eps)
+
+<figures/Rsplit.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[85]
+File: figures/FSC.eps Graphic file (type eps)
+ <figures/FSC.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 5203) has occurred while \output is active []
+
+ [86])
+(./Result/Reconstruction/3DCase/SVD_B.tex [87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Overfull \hbox (25.69907pt too wide) in alignment at lines 71--88
+ [][][] []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [91]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [92]
+File: figures/logobj.eps Graphic file (type eps)
+
+<figures/logobj.eps>
+File: figures/kccorner.eps Graphic file (type eps)
+ <figures/kccorner.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: figures/BlcompL2.eps Graphic file (type eps)
+<figures/BlcompL2.eps>
+File: figures/BlcompL10.eps Graphic file (type eps)
+ <figures/BlcompL10.eps>
+File: figures/BlcompL16.eps Graphic file (type eps)
+ <figures/BlcompL16.eps>
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 195--205
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93])
+(./conclus.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+[95]
+Chapter 5.
+[96
+
+
+] [97] [98]
+File: figures/fucycle.eps Graphic file (type eps)
+ <figures/fucycle.eps> [99])
+Overfull \hbox (13.49005pt too wide) in paragraph at lines 48--65
+[]\OT1/cmr/m/n/12 The method de-scribed above com-bines the phas-ing al-go-rith
+m and the SVD of $\OML/cmm/m/it/12 B[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 q; q[]\
+OT1/cmr/m/n/12 )$into
+ []
+
+(./Appendices.tex [100] [101
+
+
+]
+Appendix A.
+
+Overfull \hbox (30.55766pt too wide) in paragraph at lines 16--18
+\OT1/cmr/m/n/12 It is ob-vi-ous that min-i-miz-ing the frobernius norm is equiv
+-a-lent to max-i-miz-ing the trace$(
+[]\OML/cmm/m/it/12 A[]B\OT1/cmr/m/n/12 )$.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102
+
+]
+[103]
+Appendix B.
+File: figures/rundata.eps Graphic file (type eps)
+<figures/rundata.eps>
+File: figures/rundata2.eps Graphic file (type eps)
+ <figures/rundata2.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[104
+
+] [105] [106]
+Appendix C.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 38.
+
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ≈ in font cmr12!
+Missing character: There is no ö in font cmr12!
+[107
+
+] [108]
+Appendix D.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [110])
+(./refer.tex [111]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [112
+
+]
+Missing character: There is no ≈ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no á in font cmr12!
+Missing character: There is no ≈ in font cmr12!
+Missing character: There is no Ω in font cmr12!
+Missing character: There is no ƒ in font cmr12!
+Missing character: There is no á in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [113]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [114]
+Missing character: There is no Ù in font cmr12!
+Missing character: There is no è in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no à in font cmr12!
+Missing character: There is no Ù in font cmr12!
+Missing character: There is no è in font cmr12!
+Missing character: There is no ∞ in font cmr12!
+Missing character: There is no â in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]\OT1/cmr/m/n/12 Chimera Team, Uni-ver-sity of Cal-i-for-nia San Diego,
+ []
+
+[115]) (./cvtex.tex [116]) [117] (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5675 strings out of 493316
+ 81083 string characters out of 6137930
+ 172650 words of memory out of 5000000
+ 8948 multiletter control sequences out of 15000+600000
+ 13532 words of font info for 50 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 36i,20n,42p,2348b,2036s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (128 pages, 311548 bytes).

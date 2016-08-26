@@ -1,0 +1,66 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Electron density of a biomolecule as reconstructed directly from the data in a PDB file in the left-hand column, and from the simulated XFEL Diffraction patterns on the right\cite {Donatelli}.\relax }}{4}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Coherent peaks in (in red) in the correlations from incoherent diffraction patterns from the contributions of two independently randomly oriented nanoparticles, because the disorder gives rise to a kind of incoherence (except for narrow regions of reciprocal space that can easily be ignored \cite {kimmedicine}\relax }}{9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Two particles illuminated simultaneously. If the radiation is coherent, one will see interference fringes, which will average out of there are many particles of random position.\relax }}{10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces The rice dwarf virus (RDV) reconstructed from experimental data from the Single Particle Initiative measured in August 2015. Note the apparent existence of internal genetic material, as the viruses in this experiment did not have the internal genetic material removed \relax }}{11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Similar image of the satellite tobacco necrosis virus whose structure in deposited in the protein data bank. This has had its internal genetic material removed, as revealed by the reconstructed image \relax }}{12}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Single particle of nanorice reconstructed from diffraction patterns of two independently randomly oriented particles. \relax }}{13}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Calculation of the values of $B_l$ from experimental diffraction data from the rice dwarf virus without any symmetry assumption. This is dominated by $l=0$ and $l=6$, a signature of icosahedral symmetry. \relax }}{15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagram of X-ray diffraction\relax }}{17}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Plot of atomic form vector for carbon and oxygen\relax }}{20}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Example of data from protein data bank in pdb format\relax }}{21}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagram of single particle diffraction experiment\relax }}{22}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Collection of random angle diffraction patterns\relax }}{23}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Relation between reciprocal radial distance $q$ and angle $\theta $ in an Ewald sphere \cite {saldin2009} \relax }}{24}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Two points correlation in a diffraction pattern\relax }}{25}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Example of plot of spherical harmonics with different quantum numbers \relax }}{34}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Rotation of z-axis doesn't reveal azimuthal symmetry\relax }}{36}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Rotation with respect to z-axis doesn't change the structure of object\relax }}{37}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Plot of spherical harmonics with azimuthal symmetry\relax }}{38}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Top view of object with 4-fold symmetry, rotation by $90^{0}$ doesn't change appearance of object \relax }}{39}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Plot of spherical harmonics with 4-fold symmetry\relax }}{40}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Plot of spherical harmonics with icosahedral symmetry\relax }}{41}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Any point can be described in transformed axis\relax }}{43}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Red is axis in which has maximum variance in one direction and minimum component in another one\relax }}{44}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces In red axis, data can be specified with one parameter only\relax }}{45}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Model which has azimuthal symmetry\relax }}{51}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Total number of nonzero singular values vs angular momentum\relax }}{52}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Table of nonzero $I_{lm}$ for azimuthal symmetry\relax }}{52}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces K-channel protein has 4-fold symmetry\relax }}{53}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Total number of nonzero singular values vs angular momentum\relax }}{54}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Table of nonzero $I_{lm}$ for 4-fold symmetry\relax }}{54}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces PBCV from pdb(1m4x) is used as model that has icosahedral symmetry \cite {pdb1m4x}\relax }}{55}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Total number of nonzero singular values vs angular momentum\relax }}{56}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Photoactive yellow protein from pdb(2phy) is used as model\relax }}{57}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Total number of nonzero singular values vs angular momentum\relax }}{57}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diffraction pattern that are considered as "good"\relax }}{61}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Diffraction patterns that are considered as "bad"\relax }}{62}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Diffraction patterns that does not contain strong scattering\relax }}{63}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces The point in polar coordinate\relax }}{63}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces The number of nonzero singular value is more than $2 l+1$. The data doesn't show the convergence of $B_{l}(q,q')$\tmspace +\thinmuskip {.1667em}\relax }}{68}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces A noise free diffraction pattern in random orientation\relax }}{70}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Convergence of $B_{l}(q,q')$\tmspace +\thinmuskip {.1667em}from a set of noise free diffraction patterns of PYP\relax }}{70}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces The Convergence of $B_{l}(q,q')$\tmspace +\thinmuskip {.1667em}from a set of noise free diffraction patterns of PBCV\relax }}{71}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Full cycle of phasing algorithm with $B_{m}(q,q)$ as constraint\relax }}{79}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Electron density of K channel protein is used as a model to calculate $B_{m}(q,q)$\relax }}{79}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Reconstruction of electron density by only constraining to diagonal value of $B_{m}(q,q)$\relax }}{80}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 3D ellipsoidal cartesian grid is used as model\relax }}{81}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Diffraction patterns of nanorice in random orientation\relax }}{82}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Expansion in spherical harmonics with respect to an arbitrary axis\relax }}{83}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Expansion in spherical harmonics with respect to the z-axis\relax }}{83}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Reconstructed electron density after phasing\relax }}{85}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Plot of $R_{split}$ vs $q$\relax }}{86}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Plot of modulus of FSC vs $q$ \relax }}{87}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Log of objective function vs number of iteration\relax }}{94}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces reconstruction of electron density\relax }}{94}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Validation model and its reconstruction\relax }}{95}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Validation model and its reconstruction\relax }}{95}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Modified phasing algorithm which find closest orthogonal matrix\relax }}{99}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
